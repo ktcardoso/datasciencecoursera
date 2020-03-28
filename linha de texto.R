@@ -1,0 +1,1 @@
+print(" linha de texto criada no Rstudio")
